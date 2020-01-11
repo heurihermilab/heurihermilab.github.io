@@ -27,5 +27,6 @@ For that matter there are fundamental parts of the computer the even the people 
 - - -
 
 **I do think most folks** would benefit from learning a little programming at an early age. Developing a concept of what an algorithm is and how it is executed step by step like a recipe, having an idea of how a general-purpose processor operates, understanding the basics of how a web page is made and served over a network — these should be part of basic cultural literacy.
+{: .notice}
 
 And those of us who excel in all this, no more than 10% of the population I’d imagine, would be introduced to the joys (and perils) of programming at an age when brains are still developing, potentially encoding in hardware the kind of logic, fidelity to facts, and capacity to assimilate and act on very large aggregates of information that — let’s face it — our species needs to continue to operate a worldwide industrial civilization without making the planet uninhabitable.
