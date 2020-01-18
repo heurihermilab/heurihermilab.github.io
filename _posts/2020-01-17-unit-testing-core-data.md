@@ -2,7 +2,7 @@
 title: "A note on iOS unit testing with Core Data"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - blog
 tags:
   - in the trenches
   - quick tips
