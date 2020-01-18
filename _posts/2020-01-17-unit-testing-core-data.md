@@ -56,10 +56,10 @@ More search on unit testing and Core Data turned up Andrew Bancroft’s [Impleme
 
 When looking at the Data Model Inspector on the right, the default is to use the global namespace for the entity:
 
-![The entity "FooItem" is selected](/assets/images/fooitem-before.png)
+![fooitem-before.png](/assets/images/fooitem-before.png)
 
 This sets up a namespace collision when the testing module is injected into the regular app module. Instead, you need to set this to `Current Product Module`:
 
-![The entity "FooItem" is selected](/assets/images/fooitem-after.png)
+![fooitem-after.png](/assets/images/fooitem-after.png)
 
 This proved to do the trick, and now the tests flashed by, successfully.
