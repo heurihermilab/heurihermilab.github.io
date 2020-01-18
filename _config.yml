@@ -30,7 +30,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # number of posts to show
+paginate: 4 # number of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "C Juarez"
   avatar : "https://avatars1.githubusercontent.com/u/26681465?s=460&v=4"
-  bio    : "I get computers and other tech to jump through hoops. It's a matter of self-defense."
+  bio    : "I get computers and other tech to jump through hoops. What was once fascination and eventually mastery is now a matter of self-defense."
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
