@@ -61,8 +61,8 @@ plugins:
 author:
   name   : "C Juarez"
   avatar : "https://avatars1.githubusercontent.com/u/26681465?s=460&v=4"
-  bio    : "I get computers and other tech to jump through hoops. What was once fascination and eventually mastery is now a matter of self-defense."
-  links:
+  bio    : "I get computers and other tech to jump through hoops. Fascination for the theoretical (math) became aspiration to own pricey hardware, then zen mastery. Now life-long learning is a matter of self-defense."
+#  links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
 #      url: "https://"
@@ -76,8 +76,8 @@ author:
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
 
-footer:
-  links:
+#footer:
+ # links:
  #   - label: "Twitter"
  #     icon: "fab fa-fw fa-twitter-square"
  #     url: "https://twitter.com/"
