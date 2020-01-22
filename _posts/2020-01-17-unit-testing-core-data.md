@@ -35,7 +35,7 @@ It had two parts —
 * Then the console would emit, whereupon which each test would hang and eventually crash: `Could not cast value of type 'MyApp.FooItem' (0x###) to 'MyAppTests.FooItem' (0x###).`
 		
 
-By tracing the execution during testing it appeared that code that executed properly to initialize the in-memory store would fail to find it when using the storage manager code and return nil.
+By tracing the execution during testing it appeared that code that executed properly to initialize the in-memory store would fail to find the storage manager and return nil instead of a pointer to it.
 
 Now, `FooItem` was being defined in the Core Data data model file. And searching for it within the project turned up an automatically-generated file of pure boilerplate that warned that it shouldn't be edited. Manually generating the file yielded only extra errors about duplicate files. Prowling through build settings to see if something was being copied when it shouldn't brought no joy either.
 
