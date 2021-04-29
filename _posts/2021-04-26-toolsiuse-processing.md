@@ -27,20 +27,23 @@ One negative aspect that's come with Processing's multi-platform success is lang
 
 This fragmentation also hinders learning via OpenProcessing examples, as most of the "classic" Processing sketches are now archived in favor of browser-based JavaScript versions that execute well online in browsers, natch. I don't question the maintainers' intent but it *is* a pain, and I say that as someone who's transcoded Processing into Swift.
 
-| --- | --- |
-| **Tool** | Processing [[wikipedia link]](https://en.wikipedia.org/wiki/Processing_(programming_language)) |
-| --- | --- |
-| **What it is** | A cross-platform IDE and programming language (aka DSL) built for electronic art and design, with two main variants:
-	- Processing — based on Java
-	- Processing.js and p5.js — language targeting Web browsers based on JavaScript |
-| --- | --- |
-| Positives | - Free
-	- Offers generous level of control with minimal apparatus
-	- Highly extensible |
-| --- | --- |
-| Negatives | - Fragmentation of language and subsequent documentation swamp
-	- "Sketchbook" organizational metaphor encourages storing multiple versions of basic sketches and redundant source files |
+---
 
-Links:
+**Tool:**  Processing [[wikipedia link]](https://en.wikipedia.org/wiki/Processing_(programming_language))
+
+**What it is:**  A cross-platform IDE and programming language (aka DSL) built for electronic art and design, with two main variants:
+- Processing — based on Java
+- Processing.js and p5.js — language targeting Web browsers based on JavaScript
+	
+**Positives:**  
+- Free
+- Offers generous level of control with minimal apparatus
+- Highly extensible 
+	
+**Negatives:** 
+- Fragmentation of language and subsequent documentation swamp
+- "Sketchbook" organizational metaphor encourages storing multiple versions of basic sketches and redundant source files 
+
+**Links**
 - [Processing](https://processing.org/)
 - [OpenProcessing](https://openprocessing.org/)
