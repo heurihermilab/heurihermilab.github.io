@@ -1,5 +1,5 @@
 ---
-title: "Notes on **Switched-On Eugene**"
+title: "Notes on *Switched-On Eugene*"
 excerpt_separator: "<!--more-->"
 categories:
   - blog
