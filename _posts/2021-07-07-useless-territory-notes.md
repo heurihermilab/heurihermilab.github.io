@@ -25,7 +25,7 @@ At UO we shared an interest in the avant garde pop music associated with Brian E
 
 The galvanizing factor when it came to actually working together was technological. Eno had pioneered (and Fripp made his own) a method of recording by sharing tape between two reel-to-reel recorders, allowing you to interactively build up waves of sustained sound, a kind of meta-instrument.
 
-In early 1980 Brian was working at the university’s Instructional Media Center, which handled the AV needs of the campus. Somehow I prevailed upon him to check out two (only semi-portable) reel-to-reels and bring them to the nearby mini-apartment of our friend Reid Ertsgaard, where there was a foot-powered pedal organ and a Fender Rhodes electric piano, to this day the most beautiful instrument I’ve ever heard.
+In early 1980 Brian was working at the university’s Instructional Media Center, which handled the AV needs of the campus. Somehow I prevailed upon him to check out two (only *semi*-portable) reel-to-reels and bring them to the nearby mini-apartment of our friend Reid Ertsgaard, where there was a foot-powered pedal organ and a Fender Rhodes electric piano, to this day the most beautiful instrument I’ve ever heard.
 
 For several weekends that spring we experimented with this two-recorders-one-tape system, and later that year I dropped out of college to explore music and educate myself.
 
