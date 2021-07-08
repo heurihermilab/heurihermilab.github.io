@@ -54,6 +54,8 @@ We used a lot of RCA female to 1/4" male adapters when working, often to cobble 
 
 At one point I wanted to suggest we give them a short nickname for ease of reference, and as I was saying so I realized that were we to become famous then people might want to know what we called them, with the result that I blurted out *famous adapters!* and that was what we called them forever after.
  
+![Useless-Territory-back-cover-1418px.jpg](/assets/images/Useless-Territory-back-cover-1418px.jpg)
+
 ## Track notes
 
 1 — **One Man’s Walk for Christ** 1:55

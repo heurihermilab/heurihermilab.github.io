@@ -9,8 +9,8 @@ gallery:
     image_path: /assets/images/Useless-Territories-cover-1500px.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/Useless-Territories-cover-1500px.jpg
-    image_path: /assets/images/Useless-Territories-cover-1500px.jpg
+  - url: /assets/images/Useless-Territory-back-cover-1418px.jpg
+    image_path: /assets/images/Useless-Territory-back-cover-1418px.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: /assets/images/Useless-Territories-cover-1500px.jpg
