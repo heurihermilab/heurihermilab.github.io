@@ -30,7 +30,7 @@ The initial idea with the EEMC in 1984 was thinking that the people who read zin
 
 Although I was a co-founder and participated in the compilation *Freefall*, alas the prospect of employment as a typesetter lured me to Seattle later that year and after I passed on to them the PO Box I’d maintained since ’78 I was much less central to the group. The others continued to toil, assembling an enviable range of artists and releases and selling them via mail order and local stores through the rest of the decade. I’m very glad something I helped with was able to do so much.
 
-— Carl Juarez
+— Carl Juarez  
 Heurihermilab, October 2018
 
 
@@ -38,6 +38,6 @@ Heurihermilab, October 2018
 
 I consider myself less an electric than an electronic guitarist, as my ability to play without effects or at least an amplifier is quite limited. I was not born in a lake in Washington but live near Lake Washington. I am aware of the existence of the year 2002. I started at the UO in 1978, not 1979. I had friends who lived in a house called Vatican II but did not myself live there. I worked on manuals for Aldus software, but quite a few other folks were involved.
 
-In addition, this compilation features three pieces of my xerox art from the period, which appear on the CD tray packaging and album labels without attribution, acknowledgement or com- pensation. They are copyright © 1984; all rights reserved.
+In addition, this compilation features three pieces of my xerox art from the period, which appear on the CD tray packaging and album labels without attribution, acknowledgement or compensation. They are copyright © 1984; all rights reserved.
 
 
