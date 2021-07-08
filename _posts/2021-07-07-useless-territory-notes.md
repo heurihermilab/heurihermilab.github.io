@@ -102,7 +102,7 @@ In a sense this exploratory improvisation (and its companion) is an exemplar of 
 
 6 — **Eternal Ascension (After You Alphonse)** 4:59
 
-A synth duet recorded during a working visit of the Kvern brothers from Seattle that also produced Queen of Ghost Dance in 1984 (available on Industrial Frictions, see n-topia. bandcamp.com). The aggregated equipment — including two 4-track Portastudios — enabled simultaneous recording in both apartments and quick bouncing of tracks. One technique we used for better fidelity was pulling out a buss bar on the back of the PS to bypass its (relatively noisy) preamps.
+A synth duet recorded during a working visit of the Kvern brothers from Seattle that also produced Queen of Ghost Dance in 1984 (available on Industrial Frictions, see [https://n-topia.bandcamp.com](n-topia.bandcamp.com)). The aggregated equipment — including two 4-track Portastudios — enabled simultaneous recording in both apartments and quick bouncing of tracks. One technique we used for better fidelity was pulling out a buss bar on the back of the PS to bypass its (relatively noisy) preamps.
 
 In this case two synths — ARP 2600 & Pro-One? — are synced together and CJ is varying the pitch relationship between them while he and Brian improvise on keyboard.
 
