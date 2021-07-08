@@ -38,11 +38,13 @@ In the mid-’90s I collected what I thought were the best pieces from that peri
 **Brian Magill:** 
 - Partially-defretted electric guitar, aka Guitar #3 
 - Synthesizers: Moog Satellite, ARP 2600, Korg MS-20, Octave CAT, among others 
-- Various miscellaneous electric keyboards Fretless electric bass 
+- Various miscellaneous electric keyboards 
+- Fretless electric bass 
 - TASCAM Portastudio 244 4-track cassette recorder
 
 **Carl Juarez:** 
-- Cheap electric guitar Electro-Harmonix Guitar Microsynth 
+- Cheap electric guitar 
+- Electro-Harmonix Guitar Microsynth 
 - Various other secondhand and kit-built stomp boxes 
 - Roland TR-606 portable drum machine 
 - Portable radio/speaker, aka Little White Thing
