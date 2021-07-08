@@ -10,6 +10,8 @@ tags:
 
 ## From the liner notes of *Useless Territory*, published 2019.
 
+![Useless-Territories-cover-1500px.jpg](/assets/images/Useless-Territories-cover-1500px.jpg)
+
 **Liminal Notes** by Carl Juarez
 
 As a pre-teen in California I’d been intrigued by electronic and experimental music since hearing Wendy Carlos’ *Switched-On Bach* (though she was Walter at the time) and seeing documentaries on composers like George Crumb and John Cage. Synthesizers were rare and cost thousands of dollars but could be found in piano and organ stores, as many home organs were adding a third, toy-like keyboard for a rudimentary additive synth voice, and as a nascent technophile with limited musical talent I’m sure I was something of a nuisance.
