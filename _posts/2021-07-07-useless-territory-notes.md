@@ -44,7 +44,8 @@ In the mid-’90s I collected what I thought were the best pieces from that peri
 **Carl Juarez:** 
 - Cheap electric guitar Electro-Harmonix Guitar Microsynth 
 - Various other secondhand and kit-built stomp boxes 
-- Roland TR-606 portable drum machine Portable radio/speaker, aka Little White Thing
+- Roland TR-606 portable drum machine 
+- Portable radio/speaker, aka Little White Thing
 
 **On “famous” adapters —** 
 We used a lot of RCA female to 1/4" male adapters when working, often to cobble together some bizarre bit of electrical plumbing to connect one device to another. We had so many around I put star stickers on mine to keep track.
