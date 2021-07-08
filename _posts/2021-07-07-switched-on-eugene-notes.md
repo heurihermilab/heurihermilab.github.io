@@ -10,6 +10,9 @@ tags:
 
 ## From *My Story of the EEMC*, published 2018 as a supplement to the compilation *Switched-On Eugene*.
 
+![My-EEMC-front.jpg](/assets/images/My-EEMC-front.jpg)
+
+
 **34 years is a long time**, and even those of us with good memories may be excused some fuzziness in our recollections. These days it’s easy to overlook how unusual it was in a pre-disco, pre-Moby era to be interested in listening to electronic music, much less making it. Most of the real instruments were locked away in studios or academic facilities, and the few in private hands belonged to rich musicians and hobbyists, not many of which were in a small college town like Eugene.[^1]
 
 [^1]: Seattle had a rarity in PASS, the Public Access Synthesizer Studio, which is where I mastered my EEMC release *Collection Potentials: Confessions of a Mobile Intelligence Unit* around October 1984.
@@ -40,4 +43,5 @@ I consider myself less an electric than an electronic guitarist, as my ability t
 
 In addition, this compilation features three pieces of my xerox art from the period, which appear on the CD tray packaging and album labels without attribution, acknowledgement or compensation. They are copyright © 1984; all rights reserved.
 
+![My-EEMC-back.jpg](/assets/images/My-EEMC-back.jpg)
 
