@@ -22,7 +22,7 @@ For those who can identify with a mainstream Everyman like Alec Ross, this show 
 * * *
 
 
-Buffy fans uncertain if guarded enthusiasm, defensive ennui, or naked fear are the appropriate response to news of a reboot version supposedly in development sans Joss Whedon (by the people who ruined the original movie) may in the meantime find the Canadian series *Todd and the Book of Pure Evil** pleasant solace.
+Buffy fans uncertain if guarded enthusiasm, defensive ennui, or naked fear are the appropriate response to news of a reboot version supposedly in development sans Joss Whedon (by the people who ruined the original movie) may in the meantime find the Canadian series *Todd and the Book of Pure Evil* pleasant solace.
 
 While it is another replaying of the horror movie that is high school — this time as farce, with Satanists, puppets and CGI — this saga of the students and staff of Crowley High is extraordinarily effective in evoking adolescent life and its traumas, in a sort of Serlingesque manner whose karmic/cosmic, metaphor-made-concrete simplicity reminds me of the Afterschool Specials of my spent youth, minus the emotional treacle of either. The typical monster-of-the-week plotting pitfall is evaded handily by a leavening of self-awareness and a season-length discovery arc that of course leaves the viewer with more questions than it answers. A splatter-comedy for the youthful in spirit, it’s all fun and games until someone’s eviscerated, and then it’s just fun. Silent Bob sez check it out.
 
