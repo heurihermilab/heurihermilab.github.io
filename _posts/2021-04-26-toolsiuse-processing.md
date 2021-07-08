@@ -21,11 +21,11 @@ The (nearly-unGoogleable) cross-platform programming language and development sy
 
 Like HyperCard, Processing has the virtue of being a simple way to get ideas on to the screen without learning the technical ins and outs of the operating system, while facilitating maximum freedom in what one can programmatically construct. Its Hello World has two functions, `setup` and `draw`, with four executable lines. Yet the programmer is free to create class and function hierarchies like any object-oriented environment. 
 
-Libraries and extensions to the system promise even greater vistas of manipulation and control, particularly hardware, though I must admit that aside from the library that renders MP4 files I've found the built-in capabilities engrossing/challenging enough that I've yet to explore them.
+Libraries and extensions to the system promise even greater vistas of manipulation and control, particularly hardware, though I must admit that aside from the library that renders MP4 files I’ve found the built-in capabilities engrossing/challenging enough that I’ve yet to explore them.
 
-One negative aspect that's come with Processing's multi-platform success is language fragmentation, as the browser-oriented JavaScript-based variation integrates with the browser closely enough that even the drawing model is different, with no straightforward translation between it and the original version. There seems to be no documentation available about the differences, either, that could facilitate transcoding from one to the other, you simply have to learn them both.
+One negative aspect that’s come with Processing’s multi-platform success is language fragmentation, as the browser-oriented JavaScript-based variation integrates with the browser closely enough that even the drawing model is different, with no straightforward translation between it and the original version. There seems to be no documentation available about the differences, either, that could facilitate transcoding from one to the other, you simply have to learn them both.
 
-This fragmentation also hinders learning via OpenProcessing examples, as most of the "classic" Processing sketches are now archived in favor of browser-based JavaScript versions that execute well online in browsers, natch. I don't question the maintainers' intent but it *is* a pain, and I say that as someone who's transcoded Processing into Swift.
+This fragmentation also hinders learning via OpenProcessing examples, as most of the "classic" Processing sketches are now archived in favor of browser-based JavaScript versions that execute well online in browsers, natch. I don’t question the maintainers’ intent but it *is* a pain, and I say that as someone who’s transcoded Processing into Swift.
 
 ---
 
