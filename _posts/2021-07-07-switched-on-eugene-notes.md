@@ -13,7 +13,6 @@ tags:
 **34 years is a long time**, and even those of us with good memories may be excused some fuzziness in our recollections. These days it’s easy to overlook how unusual it was in a pre-disco, pre-Moby era to be interested in listening to electronic music, much less making it. Most of the real instruments were locked away in studios or academic facilities, and the few in private hands belonged to rich musicians and hobbyists, not many of which were in a small college town like Eugene.[^1]
 
 [^1]: Seattle had a rarity in PASS, the Public Access Synthesizer Studio, which is where I mastered my EEMC release *Collection Potentials: Confessions of a Mobile Intelligence Unit* around October 1984.
-{: .notice}
 
 <!--more-->
 
@@ -21,11 +20,9 @@ This meant that the folks you met who were into electronic music were like any o
 
 Still, change was coming, and quickly. The collective technophilic impulse that was driving the early hackers to develop the earliest personal computers was also pushing people like Ikutaro Kakehashi (founder of Roland/Boss) and Robert Moog to not only repurpose electronic circuitry to create the foundation for electronic music as we know it, but to make it affordable, on its way to becoming as ubiquitous as cellphones. The cultural wake-up call of punk and new wave music began incorporating academic influences like Alvin Lucier and Steve Reich, as refracted through the works of Brian Eno and European art rock, with a passion trumps poverty do-it-yourself approach. Into this ferment was tossed the TASCAM Porta- studio 4-track cassette recorder and its ilk, which only cost as much as a used car, and the rest is history.
 
-Brian Magill and I had kindled a high school acquaintance into a college collaboration at the University of Oregon in 1980 when I had inveigled him into facilitating the diversion of two “damn heavy” reel-to-reel recorders for the weekend from his student job at the Instructional Media Center to a quasi-apartment a few hundred yards up the street belonging to Reid Ertsgaard, a fellow student who had a foot-pump organ and a Fender Rhodes electric piano there. (We had been inspired by Robert Fripp’s music to attempt the two-recorders-one-tape version of the electronic audio loop, which allows a musician to interactively build up sounds into a self-sustaining audio structure.) That summer we sublet an apartment, and despite a distinct paucity of instruments and traditional skills we recorded “Throwing Up at the Pere Ubu Concert,” and I created the process piece later named “Music for Alien Encounter^2^” from electronic feedback and noise.
+Brian Magill and I had kindled a high school acquaintance into a college collaboration at the University of Oregon in 1980 when I had inveigled him into facilitating the diversion of two “damn heavy” reel-to-reel recorders for the weekend from his student job at the Instructional Media Center to a quasi-apartment a few hundred yards up the street belonging to Reid Ertsgaard, a fellow student who had a foot-pump organ and a Fender Rhodes electric piano there. (We had been inspired by Robert Fripp’s music to attempt the two-recorders-one-tape version of the electronic audio loop, which allows a musician to interactively build up sounds into a self-sustaining audio structure.) That summer we sublet an apartment, and despite a distinct paucity of instruments and traditional skills we recorded “Throwing Up at the Pere Ubu Concert,” and I created the process piece later named “Music for Alien Encounter[^2]” from electronic feedback and noise.
 
-^2^ Audible at https://archive.org/details/nTopia
-{: .notice}
-
+[^2]: Audible at https://archive.org/details/nTopia
 
 In the next few years I had disconnected from college and was trying to write and learn electric guitar, ultimately succeeding at neither. I was living in the basement at 1264 Pearl, Brian was living in the next apartment, and we were meeting and working on music with various folks, including in my case the Carrion Commandos. The punk/new wave influence of the popular music we liked had combined with the primitive electronic instruments and recording equipment to create a kind of techno-tribal northwest sound and a xerox-art esthetic that fit in with the zines of the day and showed up in our covers and posters.
 

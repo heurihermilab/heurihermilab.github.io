@@ -27,7 +27,9 @@ In early 1980 Brian was working at the university’s Instructional Media Center
 
 For several weekends that spring we experimented with this two-recorders-one-tape system, and later that year I dropped out of college to explore music and educate myself.
 
-**About this collection** In the mid-’90s I collected what I thought were the best pieces from that period for a compilation to share with Brian. Over time the source recordings have been lost and we are left with these mixes, which have been minimally processed.
+### About this collection
+
+In the mid-’90s I collected what I thought were the best pieces from that period for a compilation to share with Brian. Over time the source recordings have been lost and we are left with these mixes, which have been minimally processed.
 
 ## Equipment
 
