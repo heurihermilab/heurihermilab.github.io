@@ -1,5 +1,5 @@
 ---
-title: "Notes on *Useless Territory* [2019]"
+title: "*Useless Territory* [2019] — Liner Notes"
 excerpt_separator: "<!--more-->"
 categories:
   - blog

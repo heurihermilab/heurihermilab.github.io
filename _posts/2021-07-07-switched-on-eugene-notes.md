@@ -1,5 +1,5 @@
 ---
-title: "Notes on *Switched-On Eugene* [2018]"
+title: "Supplemental Notes on *Switched-On Eugene* [2018]"
 excerpt_separator: "<!--more-->"
 categories:
   - blog
@@ -8,7 +8,7 @@ tags:
   - linernotes
 ---
 
-## From *My Story of the EEMC*, published 2018 as a supplement to the compilation *Switched-On Eugene*.
+## From *My Story of the EEMC* [2018], published as a supplement to the compilation *Switched-On Eugene*.
 
 ![My-EEMC-front.jpg](/assets/images/My-EEMC-front.jpg)
 
@@ -23,7 +23,7 @@ This meant that the folks you met who were into electronic music were like any o
 
 Still, change was coming, and quickly. The collective technophilic impulse that was driving the early hackers to develop the first personal computers was also pushing people like Ikutaro Kakehashi (founder of Roland/Boss) and Robert Moog to not only repurpose electronic circuitry to create the foundation for electronic music as we know it, but to make it affordable, on its way to becoming as ubiquitous as cellphones. The cultural wake-up call of punk and new wave music began incorporating academic influences like Alvin Lucier and Steve Reich, as refracted through the works of Brian Eno and European art rock, with a do-it-yourself approach where passion trumped poverty. Into this ferment was tossed the TASCAM Portastudio 4-track cassette recorder and its ilk, which at $2500 only cost as much as a used car, and the rest is history.
 
-Brian Magill and I had kindled a high school acquaintance into a college collaboration at the University of Oregon in 1980 when I had inveigled him into facilitating the diversion of two “damn heavy” reel-to-reel recorders for the weekend from his student job at the Instructional Media Center to a quasi-apartment a few hundred yards up the street belonging to Reid Ertsgaard, a fellow student who had a foot-pump organ and a Fender Rhodes electric piano there. (We had been inspired by Robert Fripp’s music to attempt the two-recorders-one-tape version of the electronic audio loop, which allows a musician to interactively build up sounds into a self-sustaining audio structure.) That summer we sublet an apartment, and despite a distinct paucity of instruments we recorded “Throwing Up at the Pere Ubu Concert,” and I created the process piece later named “Music for Alien Encounter[^2]” from electronic feedback and noise.
+Brian Magill and I had kindled a high school acquaintance into a college collaboration at the University of Oregon in 1980 when I had inveigled him into facilitating the diversion of two “damn heavy” reel-to-reel recorders for the weekend from his student job at the Instructional Media Center to a quasi-apartment a few hundred yards up the street belonging to Reid Ertsgaard, a fellow student who had a foot-pump organ and a Fender Rhodes electric piano there. (We had been inspired by Robert Fripp’s music to attempt the two-recorders-one-tape version of the electronic audio loop, which allows a musician to interactively build up sounds into a self-sustaining audio structure.) That summer we sublet an apartment, and despite a distinct paucity of instruments we recorded “Throwing Up at the Pere Ubu Concert,” and I created the process piece later named “Music for Alien Encounter[^2]” from electronic feedback and cumulative noise.
 
 [^2]: Audible at [https://archive.org/details/nTopia](https://archive.org/details/nTopia)
 
