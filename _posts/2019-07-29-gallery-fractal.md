@@ -9,10 +9,6 @@ gallery:
     image_path: /assets/thumbs/anisotropy-th.jpeg
     alt: "Anisotropy"
     title: "Anisotropy"
-  - url: /assets/fractals/underweave-v2.jpeg
-    image_path: /assets/thumbs/underweave-v2-th.jpeg
-    alt: "Underweave v2"
-    title: "Underweave v2"
   - url: /assets/fractals/sounding-v4.jpeg
     image_path: /assets/thumbs/sounding-v4-th.jpeg
     alt: "Sounding v4"
@@ -93,6 +89,10 @@ gallery:
     image_path: /assets/thumbs/catalysis-v1-th.jpeg
     alt: "Catalysis"
     title: "Catalysis"
+  - url: /assets/fractals/underweave-v2.jpeg
+    image_path: /assets/thumbs/underweave-v2-th.jpeg
+    alt: "Underweave v2"
+    title: "Underweave v2"
   - url: /assets/fractals/glitch-v2.jpeg
     image_path: /assets/thumbs/glitch-v2-th.jpeg
     alt: "Glitch v2"
