@@ -232,6 +232,7 @@ gallery:
   - url: /assets/fractals/powers-v7.jpeg
     image_path: /assets/thumbs/powers-v7-th.jpeg
     alt: "Powers v7"
-    title: "Powers v7"---
+    title: "Powers v7"
+---
 
 {% include gallery caption="Fractal gallery" %}
