@@ -9,10 +9,6 @@ gallery:
     image_path: /assets/thumbs/anisotropy-th.jpeg
     alt: "Anisotropy"
     title: "Anisotropy"
-  - url: /assets/fractals/amorous-mesh.jpeg
-    image_path: /assets/thumbs/amorous-mesh-th.jpeg
-    alt: "Amorous mesh"
-    title: "Amorous mesh"
   - url: /assets/fractals/underweave-v2.jpeg
     image_path: /assets/thumbs/underweave-v2-th.jpeg
     alt: "Underweave v2"
