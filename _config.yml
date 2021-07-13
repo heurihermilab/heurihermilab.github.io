@@ -16,7 +16,7 @@
 title: Heurihermilab on Github
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Multimedia Maker, Developer, General Problem Solver
+  Multimedia maker, programmer, problem-solver
 # twitter_username: username
 # github_username: username
 minimal_mistakes_skin: default
@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "C Juarez"
   avatar : "https://avatars1.githubusercontent.com/u/26681465?s=460&v=4"
-  bio    : "  A childhood fascination for codes, ciphers and weird math in the 1970s turned out to be prophetic when the rise of personal computers (and later the Internet) made them crucial to civilization as we know it. I beguile computers and other technology into jumping through hoops, for fun and occasional profit."
+  bio    : "I beguile computers and other technology into jumping through hoops, for fun and occasional profit."
 #  links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
