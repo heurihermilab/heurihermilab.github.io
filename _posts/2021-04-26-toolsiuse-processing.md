@@ -15,7 +15,7 @@ tags:
 
 
 
-The (nearly-unGoogleable) cross-platform programming language and development system **Processing** is one of my secret weapons when it comes to graphics, especially motion graphics for video. The Java-derived language is simple, easy to share and hack, and rewards serendipity, yet hits the sweet spot in terms of pixel-level control without overwhelming with obligatory detail and system-level apparatus. 
+The cross-platform programming language and development system **Processing** is one of my secret weapons when it comes to graphics, especially motion graphics for video. The Java-derived language is simple, easy to share and hack, and rewards serendipity, yet hits the sweet spot in terms of pixel-level control without overwhelming with obligatory detail and system-level apparatus. 
 
 <!--more-->
 

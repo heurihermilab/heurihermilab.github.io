@@ -19,8 +19,8 @@ gallery:
     title: "Divination"
   - url: /assets/fractals/making-of-the-false-maria-v2.jpeg
     image_path: /assets/thumbs/making-of-the-false-maria-v2-th.jpeg
-    alt: "Making of the false maria v2"
-    title: "Making of the false maria v2"
+    alt: "Making of the false Maria v2"
+    title: "Making of the false Maria v2"
   - url: /assets/fractals/essence-of-who-v1.jpeg
     image_path: /assets/thumbs/essence-of-who-v1-th.jpeg
     alt: "Essence of who"
