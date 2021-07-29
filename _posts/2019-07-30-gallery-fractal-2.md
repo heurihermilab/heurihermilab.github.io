@@ -7,44 +7,44 @@ tags:
 gallery:
   - url: /assets/fractals/glitch-v2.jpeg
     image_path: /assets/thumbs/glitch-v2-th.jpeg
-    alt: "Glitch v2"
-    title: "Glitch v2"
+    alt: "Glitch #2"
+    title: "Glitch #2"
   - url: /assets/fractals/catalysis-v2.jpeg
     image_path: /assets/thumbs/catalysis-v2-th.jpeg
-    alt: "Catalysis v2"
-    title: "Catalysis v2"
+    alt: "Catalysis #2"
+    title: "Catalysis #2"
   - url: /assets/fractals/inverse-hyperboloid-v3.jpeg
     image_path: /assets/thumbs/inverse-hyperboloid-v3-th.jpeg
-    alt: "Inverse hyperboloid v3"
-    title: "Inverse hyperboloid v3"
+    alt: "Inverse hyperboloid #3"
+    title: "Inverse hyperboloid #3"
   - url: /assets/fractals/assassinado-v1.jpeg
     image_path: /assets/thumbs/assassinado-v1-th.jpeg
     alt: "Assassinado"
     title: "Assassinado"
   - url: /assets/fractals/empire-v2.jpeg
     image_path: /assets/thumbs/empire-v2-th.jpeg
-    alt: "Empire v2"
-    title: "Empire v2"
+    alt: "Empire #2"
+    title: "Empire #2"
   - url: /assets/fractals/intrigue-v1.jpeg
     image_path: /assets/thumbs/intrigue-v1-th.jpeg
     alt: "Intrigue"
     title: "Intrigue"
   - url: /assets/fractals/dissolution-v3.jpeg
     image_path: /assets/thumbs/dissolution-v3-th.jpeg
-    alt: "Dissolution v3"
-    title: "Dissolution v3"
+    alt: "Dissolution #3"
+    title: "Dissolution #3"
   - url: /assets/fractals/neural-net-v6.jpeg
     image_path: /assets/thumbs/neural-net-v6-th.jpeg
-    alt: "Neural net v6"
-    title: "Neural net v6"
+    alt: "Neural net #6"
+    title: "Neural net #6"
   - url: /assets/fractals/passion-v2.jpeg
     image_path: /assets/thumbs/passion-v2-th.jpeg
-    alt: "Passion v2"
-    title: "Passion v2"
+    alt: "Passion #2"
+    title: "Passion #2"
   - url: /assets/fractals/epigenesis-v4.jpeg
     image_path: /assets/thumbs/epigenesis-v4-th.jpeg
-    alt: "Epigenesis v4"
-    title: "Epigenesis v4"
+    alt: "Epigenesis #4"
+    title: "Epigenesis #4"
   - url: /assets/fractals/starborn-v1.jpeg
     image_path: /assets/thumbs/starborn-v1-th.jpeg
     alt: "Starborn"
@@ -55,20 +55,20 @@ gallery:
     title: "Prediction"
   - url: /assets/fractals/kindred-spirits-v9.jpeg
     image_path: /assets/thumbs/kindred-spirits-v9-th.jpeg
-    alt: "Kindred spirits v9"
-    title: "Kindred spirits v9"
+    alt: "Kindred spirits #9"
+    title: "Kindred spirits #9"
   - url: /assets/fractals/bitonal-v1.jpeg
     image_path: /assets/thumbs/bitonal-v1-th.jpeg
     alt: "Bitonal"
     title: "Bitonal"
   - url: /assets/fractals/global-dissolution-v5.jpeg
     image_path: /assets/thumbs/global-dissolution-v5-th.jpeg
-    alt: "Global dissolution v5"
-    title: "Global dissolution v5"
+    alt: "Global dissolution #5"
+    title: "Global dissolution #5"
   - url: /assets/fractals/spurious-v2.jpeg
     image_path: /assets/thumbs/spurious-v2-th.jpeg
-    alt: "Spurious v2"
-    title: "Spurious v2"
+    alt: "Spurious #2"
+    title: "Spurious #2"
   - url: /assets/fractals/cladistics-v1.jpeg
     image_path: /assets/thumbs/cladistics-v1-th.jpeg
     alt: "Cladistics"
@@ -83,8 +83,8 @@ gallery:
     title: "Firebringer"
   - url: /assets/fractals/descent-v2.jpeg
     image_path: /assets/thumbs/descent-v2-th.jpeg
-    alt: "Descent v2"
-    title: "Descent v2"
+    alt: "Descent #2"
+    title: "Descent #2"
   - url: /assets/fractals/spirit-rain-v1.jpeg
     image_path: /assets/thumbs/spirit-rain-v1-th.jpeg
     alt: "Spirit rain"
@@ -95,12 +95,12 @@ gallery:
     title: "Lupine"
   - url: /assets/fractals/royal-robe-v2.jpeg
     image_path: /assets/thumbs/royal-robe-v2-th.jpeg
-    alt: "Royal robe v2"
-    title: "Royal robe v2"
+    alt: "Royal robe #2"
+    title: "Royal robe #2"
   - url: /assets/fractals/lost-moon-v11.jpeg
     image_path: /assets/thumbs/lost-moon-v11-th.jpeg
-    alt: "Lost moon v11"
-    title: "Lost moon v11"
+    alt: "Lost moon #11"
+    title: "Lost moon #11"
   - url: /assets/fractals/lunar-cloudscape.jpeg
     image_path: /assets/thumbs/lunar-cloudscape-th.jpeg
     alt: "Lunar cloudscape"
@@ -111,36 +111,36 @@ gallery:
     title: "Etherscan"
   - url: /assets/fractals/hyperbole-v2.jpeg
     image_path: /assets/thumbs/hyperbole-v2-th.jpeg
-    alt: "Hyperbole v2"
-    title: "Hyperbole v2"
+    alt: "Hyperbole #2"
+    title: "Hyperbole #2"
   - url: /assets/fractals/tensor-field-v1.jpeg
     image_path: /assets/thumbs/tensor-field-v1-th.jpeg
     alt: "Tensor field"
     title: "Tensor field"
   - url: /assets/fractals/incidence-v6.jpeg
     image_path: /assets/thumbs/incidence-v6-th.jpeg
-    alt: "Incidence v6"
-    title: "Incidence v6"
+    alt: "Incidence #6"
+    title: "Incidence #6"
   - url: /assets/fractals/agglut-v2.jpeg
     image_path: /assets/thumbs/agglut-v2-th.jpeg
-    alt: "Agglut v2"
-    title: "Agglut v2"
+    alt: "Agglut #2"
+    title: "Agglut #2"
   - url: /assets/fractals/analepsis-v4.jpeg
     image_path: /assets/thumbs/analepsis-v4-th.jpeg
-    alt: "Analepsis v4"
-    title: "Analepsis v4"
+    alt: "Analepsis #4"
+    title: "Analepsis #4"
   - url: /assets/fractals/echo-v3.jpeg
     image_path: /assets/thumbs/echo-v3-th.jpeg
-    alt: "Echo v3"
-    title: "Echo v3"
+    alt: "Echo #3"
+    title: "Echo #3"
   - url: /assets/fractals/cruciferous-fantasy.jpeg
     image_path: /assets/thumbs/cruciferous-fantasy-th.jpeg
     alt: "Cruciferous fantasy"
     title: "Cruciferous fantasy"
   - url: /assets/fractals/powers-v7.jpeg
     image_path: /assets/thumbs/powers-v7-th.jpeg
-    alt: "Powers v7"
-    title: "Powers v7"
+    alt: "Powers #7"
+    title: "Powers #7"
 ---
 
 {% include gallery caption="Fractal gallery #2" %}
