@@ -16,7 +16,7 @@
 title: Heurihermilab on Github
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Multimedia maker, programmer, problem-solver
+  Multimedia maker, programmer, general problem-solver
 # twitter_username: username
 # github_username: username
 minimal_mistakes_skin: default
@@ -62,13 +62,13 @@ author:
   name   : "C Juarez"
   avatar : "https://avatars1.githubusercontent.com/u/26681465?s=460&v=4"
   bio    : "I beguile computers and other technology into jumping through hoops, for fun and occasional profit."
-#  links:
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
+  links:
+    - label: "Hic et nunc"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.hicetnunc.xyz/heurihermilab/creations"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/_n_topia_"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"

@@ -9,10 +9,6 @@ gallery:
     image_path: /assets/thumbs/anisotropy-th.jpeg
     alt: "Anisotropy"
     title: "Anisotropy"
-  - url: /assets/fractals/sounding-v4.jpeg
-    image_path: /assets/thumbs/sounding-v4-th.jpeg
-    alt: "Sounding #4"
-    title: "Sounding #4"
   - url: /assets/fractals/divination.jpeg
     image_path: /assets/thumbs/divination-th.jpeg
     alt: "Divination"
@@ -85,6 +81,10 @@ gallery:
     image_path: /assets/thumbs/warp-v3-th.jpeg
     alt: "Warp #3"
     title: "Warp #3"
+  - url: /assets/fractals/sounding-v4.jpeg
+    image_path: /assets/thumbs/sounding-v4-th.jpeg
+    alt: "Sounding #4"
+    title: "Sounding #4"
   - url: /assets/fractals/catalysis-v1.jpeg
     image_path: /assets/thumbs/catalysis-v1-th.jpeg
     alt: "Catalysis"
