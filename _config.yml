@@ -108,7 +108,10 @@ author:
   location         : "Pac NW"
   email            :
   links:
-    - label: "NFT art at Hic et nunc"
+     - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/_n_topia_"
+   - label: "NFT art at Hic et nunc"
       icon: "fas fa-fw fa-link"
       url: "https://www.hicetnunc.art/heurihermilab/creations"
     - label: "NFT art at Objkt.com"
@@ -120,9 +123,6 @@ author:
     - label: "Music at Bandcamp"
       icon: "fas fa-fw fa-link"
       url: "https://n-topia.bandcamp.com/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_n_topia_"
 
 
 # Site Footer
