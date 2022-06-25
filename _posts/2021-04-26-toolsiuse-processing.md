@@ -19,7 +19,7 @@ The cross-platform programming language and development system **Processing** is
 
 <!--more-->
 
-Like HyperCard, Processing has the virtue of being a simple way to get ideas on to the screen without learning the technical ins and outs of the operating system, while facilitating maximum freedom in what one can programmatically construct. Its Hello World has two functions, `setup` and `draw`, with four executable lines. Yet the programmer is free to create class and function hierarchies like any object-oriented environment. 
+Like Apple’s [HyperCard](https://en.wikipedia.org/wiki/Hypercard), Processing has the virtue of being a simple way to get ideas on to the screen without learning the technical ins and outs of the operating system, while facilitating maximum freedom in what one can programmatically construct. Its Hello World has two functions, `setup` and `draw`, with four executable lines. Yet the programmer is free to create class and function hierarchies like any object-oriented environment. 
 
 Libraries and extensions to the system promise even greater vistas of manipulation and control, particularly hardware, though I must admit that aside from the library that renders MP4 files I’ve found the built-in capabilities engrossing/challenging enough that I’ve yet to explore them.
 
@@ -41,8 +41,8 @@ This fragmentation also hinders learning via OpenProcessing examples, as most of
 - Highly extensible 
 	
 **Negatives:** 
-- Fragmentation of language and subsequent documentation swamp
-- "Sketchbook" organizational metaphor encourages storing multiple versions of basic sketches and redundant source files 
+- Fragmentation of language and resultant documentation swamp
+- “Sketchbook” organizational metaphor encourages storing multiple versions of basic sketches and redundant source files 
 
 **Links**
 - [Processing](https://processing.org/)

@@ -40,6 +40,6 @@ gallery:
 
 I think of these as channeled from some future successor of *Time* or *Wired*, portraying industrial leaders in the heroic manner of Soviet Realism or corporate PR of the 1950s–’60s. Each portrait surrounds its subject with sketchy impressions of their corporate baliwick, and perhaps the subject is transmogrified symbolically in response. Or are they custom-built?
 
-For those with Tezos ($XTZ), they are available as NFTs via [Objkt.com](https://objkt.com/explore/tokens/1?faContracts=KT19dQqccT6qKcbDtqpfXJgg9DpwkwJam52c).
+For those with Tezos ($XTZ), a few are still available as NFTs via [Objkt.com](https://objkt.com/explore/tokens/1?faContracts=KT19dQqccT6qKcbDtqpfXJgg9DpwkwJam52c).
 
 {% include gallery caption="Industrial Titans" %}
