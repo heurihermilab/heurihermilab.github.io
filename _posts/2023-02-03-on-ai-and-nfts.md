@@ -73,6 +73,8 @@ The next major step will be when the A.I.s are given more autonomy and begin to 
 
 (February 1, 2023)
 
+---
+
 ### Two sidebars:
 
 ## Math for secrecy: The tech behind NFTs
