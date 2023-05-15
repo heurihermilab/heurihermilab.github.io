@@ -27,6 +27,28 @@ NFTs at present come in two main flavors: profile pictures (aka PFPs, sometimes 
 
 The fine art NFT market, on the other hand, imitates the real-world art market, both as inspiration and as the inevitable result of masses of artists interacting with masses of collectors on the internet. About 10% of these NFTs are photographs of physical paintings or other art objects, and the rest started out as digital images. Sturgeon’s Law applies — there’s a lot of mediocre crap — but the law of large numbers does as well, and the non-crap 10–15% comes out to at least hundreds of pieces a day from all over the world.
 
+---
+Sidebar:
+## Math for secrecy: The tech behind NFTs
+
+**Much of the challenge** of getting one’s head around NFTs comes from its being the combination, or collision, of multiple emerging technologies. 
+
+We start with *cryptography*, which is hardly emerging, it’s true — everybody knows it’s the basis of private communication on the Internet. If your order for a pillow wasn’t encoded into what ideally looks like random gibberish, everyone who saw the message would know what you were buying (complete with payment details) and, worse, could change it into an order for three million chopsticks without leaving a trace.
+
+Encoding data is useful not only for secrecy, but for identification. A password, a fingerprint or face image — all are encoded and compared to an encoded “original”. Sophisticated cryptography makes it so there's nothing to read on your smartphone but gibberish without that key; erase it, and without the backing of a nation–state or major corporation you’ve effectively returned it to random chaos. A variation of that technique allows us to encode individual files so our key is necessary to see the contents.
+
+Next, there’s *cryptocurrency and blockchains* — digital alternatives to cash and centralized economies, based on predefined mathematical scarcities and a ton of number-crunching. Transactions are basically anonymous (though accessible via the public blockchain). As the recent crash in value reminds us, cryptocurrency is rarely a viable investment if you’re expecting to buy some and let it sit and accumulate. As an experiment I earned $15 of Bitcoin a year ago, last I checked it was worth $5. 
+
+Cryptocash is better thought of as a medium of digital exchange, not speculation. You and others have agreed to use it; the value goes up, the value goes down, and eventually you change it into cash. 
+
+Then there’s *“smart” contracts* — ways of encoding legal obligations into bits and (hopefully) enforce them without requiring lawyers and courts for action. Its ideal is the copy protection on DVDs and BluRay discs, where the strictures are automatically applied via technology; a world where all the media around you — photos in frames, media on screens, books on your phone — knows who you are and if you’re authorized to view it (and maybe cough up some service fee).
+
+Combining the above enables the creation of *NFTs*, non-fungible tokens (as opposed to fungible cryptocash tokens — one Tezos or Ethercoin is indistinguishable from another). We take a file — could be an image, animation, video, text, music — and encode it with a smart contract, resulting in an OBJKT file that we can upload to a marketplace such as Teia, Objkt.com, or many others. The contract includes metadata like title, artist name, description, the total number of copies in the edition, a resale royalty percentage and a wallet or wallets to whom it should be paid. 
+
+At this point the artwork has been “minted” and can be seen online, but no price has been set. From here the creator can set the price, accept offers, or start various kinds of auctions, depending on the platform they minted on and its features.
+
+---
+
 ## Who put these fingerprints on my imagination?
 
 Bill Gibson’s *Neuromancer* described cyberspace as a consensual mass hallucination, which at this late date naturally leads us to wonder what mass phenomenon, from fascism to the free market, *isn’t*.[1] And the number of layers of consensus here are worth noting. 
@@ -41,6 +63,23 @@ On top of that, what is a “digital painting”? An ever-increasing number of N
 
 So we're “buying” ownership of notional “paintings” portraying imaginary things, using imaginary money marked in a digital ledger spread through a network all over the planet. Seems legit.
 
+---
+Sidebar:
+## Here we go again: some historical considerations
+
+**The world is wide and vasty**, and while history never quite repeats, it does rhyme. A.I.-assisted art may be new, but most if not all of the issues it raises echo previous developments in art and technology, not least of which is the fundamental question, is it art?
+
+Is photography art? I happen to think so, and you may too, but there are those for whom it is still debatable. The Romantic notion of art that we all grew up with, where the artist’s devotion is to The Work to the exclusion of all else (society, sanity, comfort, bodily safety, etc), often includes a narrative flow of striving and near-total effort that usually ends in tragic loss, a narrative that’s undermined when the artist can “merely” click a button to make a piece of art. If substantial physical effort is a requirement of “real” art, then photography doesn’t make the cut, and any real art that relies on photography as an aid is deeply suspect as well.
+
+Still, A.I. art can’t be art because the A.I. doesn’t know what it’s doing, right? You can’t make art without *trying* to make art, and the A.I. has no consciousness of what art is, much less any intention. Yet Marcel Duchamp, over a hundred years ago, created his “readymades” (of which the upside-down urinal is perhaps the most notorious) from already-manufactured objects, objects mass-produced by people who never thought they were making art. The objects “became” art when the artist signed them and placed them in the context of art.
+
+Surely, though, art requires an artist to make it. But in John Cage’s seminal work *4'33"* the performer sits at the piano without playing it, and as the audience listens all the accidental and unintended sounds (squeaks, coughs, air movement) in the concert hall become the piece. Perhaps the ultimate indispensable element of a work of art is someone to *experience* it as art, to perceive and consider their response.
+
+A.I. art does raise some novel issues. For one thing, there’s a moral and quasi-legal controversy concerning the millions of images (with captions) scraped from the web that are used to train the networks, most (if not all) gathered without the permission of their creators. Moreover, prompts often reference particular artists in order to imitate their styles. Personally, I think it’s crass to use a single artist, especially a living one, in one’s prompts, notwithstanding the tendency for some systems to spit up a pastiche of van Gogh‘s Starry Night whenever ”starry“ and ”night“ coincide. 
+
+There’s also the question of copyright. Images can only be copyrighted by humans (including, alas, corporations), and images by non-humans, including that famous monkey selfie, cannot (though the guy who gave the camera to the monkey is happy to take your money as if it were). Current law says A.I.s can’t get copyrights or patents, and it seems unlikely that that will change for some time. This leaves the ability to copyright A.I.-assisted art somewhat indeterminate; what amount of human interaction with the results of a generative process is sufficient for the human to be considered its creator?
+
+---
 ## Chance takes a hand: Generative art
 
 As a sprouting technophilic teen I was captivated by *Switched-On Bach* and other electronic music, but the math geek inside me was also fascinated by indeterminacy and generative systems. Fractals, non-equilibrium dynamics, chaos theory, all exploring the tensions between incalculable (yet potentially deterministic) randomness and information.
@@ -72,39 +111,3 @@ Get ready for more simulations — hearing words people never said while doing t
 The next major step will be when the A.I.s are given more autonomy and begin to interact. Perhaps some will start collecting NFT art and develop their own aesthetics in the course of competitive status-seeking. The implications of all this are quite extensive but alas the space-time available here is too small for me to fit them in.
 
 (February 1, 2023)
-
----
-
-### Two sidebars:
-
-## Math for secrecy: The tech behind NFTs
-
-**Much of the challenge** of getting one’s head around NFTs comes from its being the combination, or collision, of multiple emerging technologies. 
-
-We start with *cryptography*, which is hardly emerging, it’s true — everybody knows it’s the basis of private communication on the Internet. If your order for a pillow wasn’t encoded into what ideally looks like random gibberish, everyone who saw the message would know what you were buying (complete with payment details) and, worse, could change it into an order for three million chopsticks without leaving a trace.
-
-Encoding data is useful not only for secrecy, but for identification. A password, a fingerprint or face image — all are encoded and compared to an encoded “original”. Sophisticated cryptography makes it so there's nothing to read on your smartphone but gibberish without that key; erase it, and without the backing of a nation–state or major corporation you’ve effectively returned it to random chaos. A variation of that technique allows us to encode individual files so our key is necessary to see the contents.
-
-Next, there’s *cryptocurrency and blockchains* — digital alternatives to cash and centralized economies, based on predefined mathematical scarcities and a ton of number-crunching. Transactions are basically anonymous (though accessible via the public blockchain). As the recent crash in value reminds us, cryptocurrency is rarely a viable investment if you’re expecting to buy some and let it sit and accumulate. As an experiment I earned $15 of Bitcoin a year ago, last I checked it was worth $5. 
-
-Cryptocash is better thought of as a medium of digital exchange, not speculation. You and others have agreed to use it; the value goes up, the value goes down, and eventually you change it into cash. 
-
-Then there’s *“smart” contracts* — ways of encoding legal obligations into bits and (hopefully) enforce them without requiring lawyers and courts for action. Its ideal is the copy protection on DVDs and BluRay discs, where the strictures are automatically applied via technology; a world where all the media around you — photos in frames, media on screens, books on your phone — knows who you are and if you’re authorized to view it (and maybe cough up some service fee).
-
-Combining the above enables the creation of *NFTs*, non-fungible tokens (as opposed to fungible cryptocash tokens — one Tezos or Ethercoin is indistinguishable from another). We take a file — could be an image, animation, video, text, music — and encode it with a smart contract, resulting in an OBJKT file that we can upload to a marketplace such as Teia, Objkt.com, or many others. The contract includes metadata like title, artist name, description, the total number of copies in the edition, a resale royalty percentage and a wallet or wallets to whom it should be paid. 
-
-At this point the artwork has been “minted” and can be seen online, but no price has been set. From here the creator can set the price, accept offers, or start various kinds of auctions, depending on the platform they minted on and its features.
-
-## Here we go again: some historical considerations
-
-**The world is wide and vasty**, and while history never quite repeats, it does rhyme. A.I.-assisted art may be new, but most if not all of the issues it raises echo previous developments in art and technology, not least of which is the fundamental question, is it art?
-
-Is photography art? I happen to think so, and you may too, but there are those for whom it is still debatable. The Romantic notion of art that we all grew up with, where the artist’s devotion is to The Work to the exclusion of all else (society, sanity, comfort, bodily safety, etc), often includes a narrative flow of striving and near-total effort that usually ends in tragic loss, a narrative that’s undermined when the artist can “merely” click a button to make a piece of art. If substantial physical effort is a requirement of “real” art, then photography doesn’t make the cut, and any real art that relies on photography as an aid is deeply suspect as well.
-
-Still, A.I. art can’t be art because the A.I. doesn’t know what it’s doing, right? You can’t make art without *trying* to make art, and the A.I. has no consciousness of what art is, much less any intention. Yet Marcel Duchamp, over a hundred years ago, created his “readymades” (of which the upside-down urinal is perhaps the most notorious) from already-manufactured objects, objects mass-produced by people who never thought they were making art. The objects “became” art when the artist signed them and placed them in the context of art.
-
-Surely, though, art requires an artist to make it. But in John Cage’s seminal work *4'33"* the performer sits at the piano without playing it, and as the audience listens all the accidental and unintended sounds (squeaks, coughs, air movement) in the concert hall become the piece. Perhaps the ultimate indispensable element of a work of art is someone to *experience* it as art, to perceive and consider their response.
-
-A.I. art does raise some novel issues. For one thing, there’s a moral and quasi-legal controversy concerning the millions of images (with captions) scraped from the web that are used to train the networks, most (if not all) gathered without the permission of their creators. Moreover, prompts often reference particular artists in order to imitate their styles. Personally, I think it’s crass to use a single artist, especially a living one, in one’s prompts, notwithstanding the tendency for some systems to spit up a pastiche of van Gogh‘s Starry Night whenever ”starry“ and ”night“ coincide. 
-
-There’s also the question of copyright. Images can only be copyrighted by humans (including, alas, corporations), and images by non-humans, including that famous monkey selfie, cannot (though the guy who gave the camera to the monkey is happy to take your money as if it were). Current law says A.I.s can’t get copyrights or patents, and it seems unlikely that that will change for some time. This leaves the ability to copyright A.I.-assisted art somewhat indeterminate; what amount of human interaction with the results of a generative process is sufficient for the human to be considered its creator?
