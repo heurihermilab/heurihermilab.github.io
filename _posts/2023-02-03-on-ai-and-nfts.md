@@ -28,8 +28,8 @@ NFTs at present come in two main flavors: profile pictures (aka PFPs, sometimes 
 The fine art NFT market, on the other hand, imitates the real-world art market, both as inspiration and as the inevitable result of masses of artists interacting with masses of collectors on the internet. About 10% of these NFTs are photographs of physical paintings or other art objects, and the rest started out as digital images. Sturgeon’s Law applies — there’s a lot of mediocre crap — but the law of large numbers does as well, and the non-crap 10–15% comes out to at least hundreds of pieces a day from all over the world.
 
 ---
-Sidebar:
-## Math for secrecy: The tech behind NFTs
+
+### Math for secrecy: The tech behind NFTs [a sidebar]
 
 **Much of the challenge** of getting one’s head around NFTs comes from its being the combination, or collision, of multiple emerging technologies. 
 
@@ -64,8 +64,8 @@ On top of that, what is a “digital painting”? An ever-increasing number of N
 So we're “buying” ownership of notional “paintings” portraying imaginary things, using imaginary money marked in a digital ledger spread through a network all over the planet. Seems legit.
 
 ---
-Sidebar:
-## Here we go again: some historical considerations
+
+### Here we go again: some historical considerations [a sidebar]
 
 **The world is wide and vasty**, and while history never quite repeats, it does rhyme. A.I.-assisted art may be new, but most if not all of the issues it raises echo previous developments in art and technology, not least of which is the fundamental question, is it art?
 
