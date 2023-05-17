@@ -7,6 +7,8 @@ tags:
   - nfts
 ---
 
+![Title -- image of a man silhouetted against a cityscape of tall glass towers](/assets/images/Infinite-Possibilities-(III).png)
+
 **If I tell the average person** I make art NFTs I am instantly three steps behind where I was when I started. Aren’t those all scams? In fact, aren’t they Ponzi schemes layered on top of cryptocurrency scams with a side of insane energy consumption? I saw some NFTs once, they looked like cartoon chimps wearing stupid hats, and some of them were worth millions of dollars!
 
 It takes a lot of work to untangle all that to the point where I can talk about the art and not the medium of distribution, which is what NFTs are. For me it’s a way to distribute art — images, videos, short animations, music, words — via the Internet for extraordinarily cheap, under $1 in fact. Making it possible to see my work on any smartphone on the planet seems worth the effort of buying/earning cryptocash (in this case Tezos, aka tez) and maintaining a cloud-based wallet for it with an incomprehensible ID starting tz + 32 letters/digits.
