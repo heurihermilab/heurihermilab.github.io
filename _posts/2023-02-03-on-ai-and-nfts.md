@@ -7,7 +7,7 @@ tags:
   - nfts
 ---
 
-![Title -- image of a man silhouetted against a cityscape of tall glass towers](assets/images/Infinite-Possibilities-III.png)
+
 
 **If I tell the average person** I make art NFTs I am instantly three steps behind where I was when I started. Aren’t those all scams? In fact, aren’t they Ponzi schemes layered on top of cryptocurrency scams with a side of insane energy consumption? I saw some NFTs once, they looked like cartoon chimps wearing stupid hats, and some of them were worth millions of dollars!
 
